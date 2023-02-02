@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iY8XBZNYugk/18ki4SM4yh/7rWNe+jBcslshygfMKE6y8Bc7A7bM8RXVFY0X5/25G3NwenRX4RZGymJuGTDvfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\neito\\Desktop\\EBD\\UNIDAD 2\\programa13-Multiplicacion de 2 numeros\\programa13-Multiplicacion de 2 numeros\\programa13-Multiplicacion de 2 numeros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neito\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
