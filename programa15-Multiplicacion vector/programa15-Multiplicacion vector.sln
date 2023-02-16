@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa15-Multiplicacion vector", "programa15-Multiplicacion vector\programa15-Multiplicacion vector.csproj", "{D8245BD3-3C7A-40C2-9044-9A921E1A0792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8245BD3-3C7A-40C2-9044-9A921E1A0792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8245BD3-3C7A-40C2-9044-9A921E1A0792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8245BD3-3C7A-40C2-9044-9A921E1A0792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8245BD3-3C7A-40C2-9044-9A921E1A0792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCE60311-D21C-454C-AD4B-D0A745C992D4}
+	EndGlobalSection
+EndGlobal

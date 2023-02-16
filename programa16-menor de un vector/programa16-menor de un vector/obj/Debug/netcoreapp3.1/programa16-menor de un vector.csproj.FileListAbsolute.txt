@@ -1,0 +1,26 @@
+C:\Users\neito\source\repos\programa16-menor de un vector\programa16-menor de un vector\obj\Debug\netcoreapp3.1\programa16-menor de un vector.csprojAssemblyReference.cache
+C:\Users\neito\source\repos\programa16-menor de un vector\programa16-menor de un vector\obj\Debug\netcoreapp3.1\programa16-menor de un vector.AssemblyInfoInputs.cache
+C:\Users\neito\source\repos\programa16-menor de un vector\programa16-menor de un vector\obj\Debug\netcoreapp3.1\programa16-menor de un vector.AssemblyInfo.cs
+C:\Users\neito\source\repos\programa16-menor de un vector\programa16-menor de un vector\obj\Debug\netcoreapp3.1\programa16-menor de un vector.csproj.CoreCompileInputs.cache
+C:\Users\neito\source\repos\programa16-menor de un vector\programa16-menor de un vector\bin\Debug\netcoreapp3.1\programa16-menor de un vector.exe
+C:\Users\neito\source\repos\programa16-menor de un vector\programa16-menor de un vector\bin\Debug\netcoreapp3.1\programa16-menor de un vector.deps.json
+C:\Users\neito\source\repos\programa16-menor de un vector\programa16-menor de un vector\bin\Debug\netcoreapp3.1\programa16-menor de un vector.runtimeconfig.json
+C:\Users\neito\source\repos\programa16-menor de un vector\programa16-menor de un vector\bin\Debug\netcoreapp3.1\programa16-menor de un vector.runtimeconfig.dev.json
+C:\Users\neito\source\repos\programa16-menor de un vector\programa16-menor de un vector\bin\Debug\netcoreapp3.1\programa16-menor de un vector.dll
+C:\Users\neito\source\repos\programa16-menor de un vector\programa16-menor de un vector\bin\Debug\netcoreapp3.1\programa16-menor de un vector.pdb
+C:\Users\neito\source\repos\programa16-menor de un vector\programa16-menor de un vector\obj\Debug\netcoreapp3.1\programa16-menor de un vector.dll
+C:\Users\neito\source\repos\programa16-menor de un vector\programa16-menor de un vector\obj\Debug\netcoreapp3.1\programa16-menor de un vector.pdb
+C:\Users\neito\source\repos\programa16-menor de un vector\programa16-menor de un vector\obj\Debug\netcoreapp3.1\programa16-menor de un vector.genruntimeconfig.cache
+C:\Users\neito\Desktop\EBD\UNIDAD 2\programa16-menor de un vector\programa16-menor de un vector\bin\Debug\netcoreapp3.1\programa16-menor de un vector.exe
+C:\Users\neito\Desktop\EBD\UNIDAD 2\programa16-menor de un vector\programa16-menor de un vector\bin\Debug\netcoreapp3.1\programa16-menor de un vector.deps.json
+C:\Users\neito\Desktop\EBD\UNIDAD 2\programa16-menor de un vector\programa16-menor de un vector\bin\Debug\netcoreapp3.1\programa16-menor de un vector.runtimeconfig.json
+C:\Users\neito\Desktop\EBD\UNIDAD 2\programa16-menor de un vector\programa16-menor de un vector\bin\Debug\netcoreapp3.1\programa16-menor de un vector.runtimeconfig.dev.json
+C:\Users\neito\Desktop\EBD\UNIDAD 2\programa16-menor de un vector\programa16-menor de un vector\bin\Debug\netcoreapp3.1\programa16-menor de un vector.dll
+C:\Users\neito\Desktop\EBD\UNIDAD 2\programa16-menor de un vector\programa16-menor de un vector\bin\Debug\netcoreapp3.1\programa16-menor de un vector.pdb
+C:\Users\neito\Desktop\EBD\UNIDAD 2\programa16-menor de un vector\programa16-menor de un vector\obj\Debug\netcoreapp3.1\programa16-menor de un vector.csprojAssemblyReference.cache
+C:\Users\neito\Desktop\EBD\UNIDAD 2\programa16-menor de un vector\programa16-menor de un vector\obj\Debug\netcoreapp3.1\programa16-menor de un vector.AssemblyInfoInputs.cache
+C:\Users\neito\Desktop\EBD\UNIDAD 2\programa16-menor de un vector\programa16-menor de un vector\obj\Debug\netcoreapp3.1\programa16-menor de un vector.AssemblyInfo.cs
+C:\Users\neito\Desktop\EBD\UNIDAD 2\programa16-menor de un vector\programa16-menor de un vector\obj\Debug\netcoreapp3.1\programa16-menor de un vector.csproj.CoreCompileInputs.cache
+C:\Users\neito\Desktop\EBD\UNIDAD 2\programa16-menor de un vector\programa16-menor de un vector\obj\Debug\netcoreapp3.1\programa16-menor de un vector.dll
+C:\Users\neito\Desktop\EBD\UNIDAD 2\programa16-menor de un vector\programa16-menor de un vector\obj\Debug\netcoreapp3.1\programa16-menor de un vector.pdb
+C:\Users\neito\Desktop\EBD\UNIDAD 2\programa16-menor de un vector\programa16-menor de un vector\obj\Debug\netcoreapp3.1\programa16-menor de un vector.genruntimeconfig.cache
